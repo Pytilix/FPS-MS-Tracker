@@ -1,0 +1,10 @@
+## Title: FPS-MS-Tracker
+## Interface: 120000, 11505, 40400, 30403
+## Notes: FPS/MS Tracker bottom left! by Pytilix
+## Version: v12.3
+## Author: Pytilix
+## X-License: All Rights Reserved
+## X-Copyright: Copyright (c) 2021-2026 Pytilix. All rights reserved.
+## DefaultState: Enabled
+
+tracker.lua
